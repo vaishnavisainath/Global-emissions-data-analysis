@@ -1,5 +1,4 @@
-# Global-emissions-data-analysis
-# Global Emissions Data Analysis
+# Global-Emissions-Analytics-and-Prediction
 
 This project analyzes the global emissions dataset to explore the relationship between emissions and per capita values across different countries. The dataset includes various emission factors, such as cement production, energy usage, and more.
 
